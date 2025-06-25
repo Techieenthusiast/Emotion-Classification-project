@@ -60,6 +60,10 @@ Weighted Avg F1 Score: 81%
 
 📝 Note: Classes like Neutral and Sad showed slightly lower performance, likely due to limited data. Can be improved with more samples.
 
+![WhatsApp Image 2025-06-25 at 20 23 06_4131849d](https://github.com/user-attachments/assets/aaa439bf-a221-4f33-90c4-ac790fa90dd8)
+
+![WhatsApp Image 2025-06-25 at 20 23 44_8e2d9b45](https://github.com/user-attachments/assets/00700eb5-3a97-4449-8ece-31f96ab7721e)
+
 🌐 Web Application
 Built using Streamlit
 
