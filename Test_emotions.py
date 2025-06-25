@@ -5,7 +5,7 @@ import sys
 import os
 
 # Load the model
-model = tf.keras.models.load_model('emotion_classifier_gru.h5')
+model = tf.keras.models.load_model('best_model.h5')
 
 # Define emotion classes (in order of model output)
 emotion_classes = ['angry', 'calm', 'disgust', 'fearful', 'happy', 'neutral', 'sad', 'surprised']
