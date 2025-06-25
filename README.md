@@ -1,4 +1,4 @@
-# Emotion-Recognition-project
+# Emotion-Classification-project
 
 
 🎧 MARS Project — Speech Emotion Classification
