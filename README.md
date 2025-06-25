@@ -75,7 +75,7 @@ Outputs predicted emotion
 
 🎥 Preview video attached 
 
-👉 Live App (Streamlit Cloud)  https://emotion-recognition-app-webapp-aigvxkappqzvofx2pggbkb.streamlit.app/
+👉 Live App (Streamlit Cloud)  https://emotion-classifier-app-webapp-pesfcqbszywu2p454gva78.streamlit.app/
 
 🛠️ Tech Stack
 Libraries:
